@@ -51,10 +51,11 @@ main{
 	margin-bottom: 15px;
 
 }
-
+.section-right span{
+	float: right;
+}
 .inline-head{
 	display: inline;
-	margin-right: 60px;
 }
 
 .work-period{
